@@ -11,7 +11,7 @@ I'm a **Cloud Engineer** with a passion for DevOps. I work mainly with **Azure**
 - 💻 Currently diving deeper into **DevOps** practices and improving my knowledge of automation tools.
 
 ## 🔧 Technologies I Use:
-- **Cloud Provider**: Azure
+- **Cloud Provider**: Azure, AWS
 - **Infrastructure as Code**: Terraform
 - **CI/CD Tools**: Azure DevOps
 - **Containerization**: Docker
