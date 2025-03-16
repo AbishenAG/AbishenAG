@@ -28,6 +28,6 @@ I'm a **Cloud Engineer** with a passion for DevOps. I work mainly with **Azure**
 - **LinkedIn**: [Abishen LinkedIn](https://www.linkedin.com/in/abishenag/)
 - **GitHub**: You're here! Feel free to check out my projects.
 
-Thanks for stopping by — let’s all rise and build together, and be **On Cloud 9**! 💻☁️🚀
+Thanks for stopping by — let’s all rise and be **On Cloud 9**! 💻☁️🚀
 
 
