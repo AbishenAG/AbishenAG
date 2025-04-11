@@ -3,7 +3,7 @@
 I'm a **Cloud Engineer** with a passion for DevOps. I work mainly with **Azure** as my cloud provider and specialize in **Terraform** to manage cloud infrastructure. I also use **Azure DevOps** to automate CI/CD pipelines and ensure smooth deployments.
 
 ## 🚀 About Me:
-- 🎓 **Digital Forensics & Cyber Security** graduate
+- 🎓 **BSc Digital Forensics & Cyber Security** 
 - 🌥️ Building scalable cloud architectures and automating infrastructure using **Terraform**.
 - ⚙️ Streamlining processes with **Azure DevOps** pipelines for CI/CD.
 - 🐳 Utilise **Docker** to containerize applications and streamline development workflows.
